@@ -1,4 +1,4 @@
-
+package paquete;
 public class Notificacion {
 	
 	private int tipoNotificacion;

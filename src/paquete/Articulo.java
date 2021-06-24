@@ -1,3 +1,5 @@
+package paquete;
+
 
 public class Articulo {
 	

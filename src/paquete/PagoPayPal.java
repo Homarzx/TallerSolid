@@ -1,4 +1,4 @@
-
+package paquete;
 public class PagoPayPal  extends Pago{
 	private boolean loggedIn; //conexion a cuenta PayPal
 	@Override
